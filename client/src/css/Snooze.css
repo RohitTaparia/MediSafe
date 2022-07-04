@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,900);
+
+#id {
+  font-size: 8000 px;
+  font-family: "Gideon Roman", cursive;
+  text-align: center;
+}
+.snooze-section {
+  margin: auto;
+  height: 30em;
+  background-image: url(../img/SL-072620-33020-24.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+  font-size: 1.25rem;
+  font-family: "Gideon Roman", cursive;
+}
+.snooze-section h4 {
+  font-family: "Gideon Roman", cursive;
+}
+.snooze-header {
+  margin: 0px auto;
+  text-align: center;
+}
+.Form {
+  padding: 5px 20px;
+  text-align: center;
+  width: 200px;
+  display: block;
+  align-items: center;
+}
+
+.Form fieldset {
+  margin: 20px 0;
+}
+h1.Formm {
+  color: black;
+  width: fit-content;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.totd {
+  display: flex;
+  justify-content: center;
+  background-color: #0d0f0f;
+  font-size: 4px;
+  opacity: 1;
+  transition: 0.3s;
+}
+#button {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: #2172ac;
+  font-size: 16px;
+  border: 0.3em solid #2172ac;
+  border-radius: 0.5em;
+  width: 10 px;
+  height: 10 px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: sans-serif;
+  letter-spacing: 0.1em;
+  text-align: center;
+  line-height: 3em;
+  transition: 0.5s;
+  margin: 1em;
+}
+#button:hover {
+  color: rgb(238, 225, 225);
+  opacity: 0.6;
+  content: "Completed!" !important;
+}
+#button:hover span {
+  transform: translateY(0) scale(1);
+}
+
+#buttonSleep {
+  margin: 1rem;
+  padding: 1rem;
+  align-items: center;
+  background-color: #fcfcfd;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,
+    rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #d6d6e7 0 -3px 0 inset;
+  color: #36395a;
+  cursor: pointer;
+  font-family: "Bree Serif", serif;
+  font-size: 18px;
+}
+
+.Sleep_Text {
+  margin: 4px auto;
+  width: 90%;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  background-color: #f0f7fb;
+  border: solid 1px #3498db;
+  border-radius: 6px;
+  text-align: center;
+  color: rgb(78, 78, 134);
+  font-size: 1.15rem;
+  font-family: "Gideon Roman", cursive;
+}
+
+.line-chart {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 25%;
+}
+.chartSection {
+  text-align: center;
+  margin: 1rem;
+  font-family: "Bree Serif", serif;
+}
