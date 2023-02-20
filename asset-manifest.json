@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MediSafe/static/css/main.7775735e.css",
+    "main.js": "/MediSafe/static/js/main.a90918a4.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/MediSafe/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/5556.jpg": "/MediSafe/static/media/5556.4c9306ce0907c839831f.jpg",
+    "static/media/SL-072620-33020-24.jpg": "/MediSafe/static/media/SL-072620-33020-24.3aa1d9fe00b693ca319e.jpg",
+    "static/media/17973908.jpg": "/MediSafe/static/media/17973908.f42ecb4bc8e4c4ed24be.jpg",
+    "static/media/background.jpg": "/MediSafe/static/media/background.f3a11b5a1230ce19c978.jpg",
+    "static/media/SL-043021-42650-16.jpg": "/MediSafe/static/media/SL-043021-42650-16.1d28a01805830fa7bf54.jpg",
+    "static/media/rm222-mind-16.jpg": "/MediSafe/static/media/rm222-mind-16.61dd12a2f4a162384f58.jpg",
+    "static/media/cardiogram.png": "/MediSafe/static/media/cardiogram.dbd31cd6330a6f822e21.png",
+    "index.html": "/MediSafe/index.html",
+    "main.7775735e.css.map": "/MediSafe/static/css/main.7775735e.css.map",
+    "main.a90918a4.js.map": "/MediSafe/static/js/main.a90918a4.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/MediSafe/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7775735e.css",
+    "static/js/main.a90918a4.js"
+  ]
+}
